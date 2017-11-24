@@ -6624,7 +6624,8 @@ a.thumbnail {
   .grid-margin-y.large-grid-frame {
     height: calc(100vh + 1.875rem); } }
 .header-wrapper {
-  background: #DB7E35; }
+  background: #DB7E35;
+  margin-top: 10px; }
 
 #logo {
   font-size: 1.3em; }
@@ -6642,5 +6643,13 @@ a.thumbnail {
 
 .bold {
   font-weight: bold; }
+
+.hero {
+  padding: 280px 50px 200px 30px;
+  background-image: url("../image/hero-img.jpg"); }
+  .hero h1 {
+    color: #DB7E35;
+    font-size: 7em;
+    text-shadow: 0px 0px 60px #000000; }
 
 /*# sourceMappingURL=style.css.map */
