@@ -6635,7 +6635,12 @@ a.thumbnail {
 
 .menu {
   margin-top: 10px; }
+  .menu a {
+    color: #ffffff; }
   .menu a:hover {
-    border-bottom: 5px solid cornflowerblue; }
+    border-bottom: 5px solid #6495ED; }
+
+.bold {
+  font-weight: bold; }
 
 /*# sourceMappingURL=style.css.map */
