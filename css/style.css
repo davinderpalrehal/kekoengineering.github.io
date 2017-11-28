@@ -6657,11 +6657,7 @@ p {
     font-size: 7em;
     text-shadow: 0px 0px 60px #000000; }
 
-main > :nth-child(2n+1) {
-  background: #DB7E35; }
-
-main > :nth-child(2n) {
-  background: #aaaaaa;
-  color: white; }
+main {
+  background: #eeeeee; }
 
 /*# sourceMappingURL=style.css.map */
